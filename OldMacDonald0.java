@@ -29,7 +29,7 @@ public class OldMacDonald0
         System.out.println("Old MacDonald had a farm, E I E I O.");
         System.out.println("And on that farm he had a duck, E I E I O.");
         System.out.println("With a quack quack here and a quack quack there.");
-        System.out.println("Here a quack, there a moo, everywhere a quack, quack.");
+        System.out.println("Here a quack, there a quack, everywhere a quack, quack.");
         System.out.println("Old MacDonald had a farm, E I E I O.");
         System.out.println();
     }
