@@ -11,7 +11,7 @@
 public class OldMacDonald2 
 {
     /**
-     * Singsfirst line of Old MacDonald
+     * Sings first line of Old MacDonald
      */    
     public static void eieio() 
     { 
