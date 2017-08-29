@@ -10,19 +10,31 @@
 
 public class OldMacDonald2 
 {
-    
+    /**
+     * Singsfirst line of Old MacDonald
+     */    
     public static void eieio() 
     { 
         System.out.println("Old MacDonald had a farm, E I E I O.");
     }
 
 
+    /**
+     * Sings the second line of the song.
+     * 
+     * @param (animal) type of animal in the song.
+     */
     public static void hadA(String animal) 
     { 
         System.out.println("And on that farm he had a " + animal + ", E I E I O.");
     }
 
 
+    /**
+     * Sings next two lines of the song.
+     * 
+     * @param (sound) creates sound coresponding to the type of animal.
+     */
     public static void withA(String sound) 
     { 
         System.out.println("With a " + sound + " " + sound +  " here and a " + sound + " " + sound +  " there.");
@@ -30,6 +42,12 @@ public class OldMacDonald2
     }
 
     
+    /**
+     * Sings a verse of Old MacDonald
+     * 
+     * @param (animal) what animal is in the song.
+     * @param (sound) What sound said animal makes.
+     */
     public static void singIt(String animal, String sound) 
     {
         eieio();
@@ -40,6 +58,9 @@ public class OldMacDonald2
     }
 
     
+    /**
+     * Calls the singIt() for each verse.
+     */
     public static void main(String[] args) 
     {
         System.out.println("Old MacDonald Had A Farm\n"); // Give our        song a title
