@@ -22,7 +22,7 @@ public class OldMacDonald2
     /**
      * Sings the second line of the song.
      * 
-     * @param (animal) type of animal in the song.
+     * @param  animal  type of animal in the song.
      */
     public static void hadA(String animal) 
     { 
@@ -33,7 +33,7 @@ public class OldMacDonald2
     /**
      * Sings next two lines of the song.
      * 
-     * @param (sound) creates sound coresponding to the type of animal.
+     * @param  sound  creates sound coresponding to the type of animal.
      */
     public static void withA(String sound) 
     { 
@@ -45,8 +45,8 @@ public class OldMacDonald2
     /**
      * Sings a verse of Old MacDonald
      * 
-     * @param (animal) what animal is in the song.
-     * @param (sound) What sound said animal makes.
+     * @param  animal  what animal is in the song.
+     * @param  sound  What sound said animal makes.
      */
     public static void singIt(String animal, String sound) 
     {
